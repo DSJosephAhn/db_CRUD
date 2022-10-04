@@ -1,0 +1,10 @@
+{
+        "DB_LOCAL" :
+    { 
+    "dbname" : "database",
+    "user" : "user name",
+    "host" : "host name",
+    "password" : "password",
+    "port" : 5432
+    }
+}
